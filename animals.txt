@@ -1,5 +1,3 @@
-yellyfish
-whale
-scrab
-shark
-seeghal
+fish
+planctons
+seegrens
